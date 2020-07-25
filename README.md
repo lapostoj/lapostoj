@@ -7,4 +7,4 @@
 <br />
 <br />
 
-👨‍💻I'm currently working at [Marshmallow](https://marshmallow.com/), improving car insurance in the UK.
+👨‍💻 I'm currently working at [Marshmallow](https://marshmallow.com/), improving car insurance in the UK.
