@@ -1,11 +1,10 @@
 # Hi there 👋
 
-<a href="https://www.lapostoj.fr" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="lapostoj.fr" width="25px" src="https://raw.githubusercontent.com/lapostoj/lapostoj/master/assets/lapostoj-logo.svg" />
-</a>
+[<img align="left" alt="lapostoj.fr" width="25px" src="https://raw.githubusercontent.com/lapostoj/lapostoj/master/assets/lapostoj-logo.svg" />](https://www.lapostoj.fr)
 
-<a href="https://www.linkedin.com/in/jeromelapostolet/" target="_blank" rel="noopener noreferrer">
-  <img align="left"  alt="LinkedIn logo" width="25px" src="https://raw.githubusercontent.com/lapostoj/lapostoj/master/assets/linkedin-logo.svg" />
-</a>
+[<img align="left"  alt="LinkedIn logo" width="25px" src="https://raw.githubusercontent.com/lapostoj/lapostoj/master/assets/linkedin-logo.svg" />](https://www.linkedin.com/in/jeromelapostolet/)
+
+<br />
+<br />
 
 👨‍💻I'm currently working at [Marshmallow](https://marshmallow.com/), improving car insurance in the UK.
